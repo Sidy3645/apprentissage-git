@@ -4,3 +4,4 @@ J'ai réussi mon premier git push.
 Je vais maintenant apprendre les branches Git.
 Je commence maintenant à travailler 
 avec les branches et les Pull Requests GitHub.
+Je découvre maintenant les branches Git.
