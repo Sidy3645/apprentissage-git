@@ -1,4 +1,5 @@
 Je suis en train d'apprendre
 Git et GitHub.
 J'ai réussi mon premier git push.
-Je vais maintenant apprendre les branches Git.
+Je découvre maintenant les branches Git.
+
